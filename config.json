@@ -1,0 +1,9 @@
+{
+    "cache": "filesystem",
+    "cacheConfig": {
+        "cacheDurationMinutes": 1440,
+        "cacheMaxEntries": 1000
+    },
+    "timeout": 30000,
+    "closeBrowser": true
+}
